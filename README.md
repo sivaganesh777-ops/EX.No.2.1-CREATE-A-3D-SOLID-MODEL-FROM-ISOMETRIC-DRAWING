@@ -22,8 +22,10 @@ Step 1: Preparing the sheet and reference lines
 	
 	    •  The Front View (FV) is drawn looking from the direction of the arrow.
         •  The Top View (TV) is projected directly below the Front View. 
-	    •  The Side View (SV), which is the Right Side View, is projected to the left or right of the 
-	      Front View depending on the First/Third Angle Projection convention (First Angle is standard unless specified otherwise).
+	    •  The Side View (SV), which is the Right Side View,
+		   is projected to the left or right of the 
+	      Front View depending on the First/Third Angle Projection convention
+		  (First Angle is standard unless specified otherwise).
 
   <img width="907" height="597" alt="image" src="https://github.com/user-attachments/assets/9263e8fa-d431-4c9a-a48c-f448bdea8b16" />
 
