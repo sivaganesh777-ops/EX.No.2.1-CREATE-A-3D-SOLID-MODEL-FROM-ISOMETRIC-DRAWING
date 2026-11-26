@@ -38,7 +38,8 @@ Step 1: Preparing the sheet and reference lines
 		      •  Centre it horizontally across the 100 mm width.
 			  •  Draw the circular lens outline with a diameter of 50 mm.
 	      4.  Add the top attachments that are visible from the front: 
-			  •  Draw the profile of the central trapezoidal flash/viewfinder block, showing the 45° slope.
+			  •  Draw the profile of the central trapezoidal flash/viewfinder block,
+			     showing the 45° slope.
 			  •  Draw the outlines of the smaller top buttons/dials on the upper surface. 
 		  5.  Darken the visible outlines using an HB pencil.
 
